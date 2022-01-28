@@ -1,7 +1,14 @@
-.h-center{
+.card{
     text-align: center;
     background-color: lightblue;
 }
+.main-heading{
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+}
 .paragraph{
     color: grey;
+    text-decoration: underline;
 }

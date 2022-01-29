@@ -1,0 +1,38 @@
+.bg-container {
+    background-image: url("https://cdn.britannica.com/99/155499-004-685EB0C7.jpg");
+    height: 30vh;
+    background-size: cover;
+    width: 100vw;
+    
+}
+.diwali-heading{
+    color: white;
+    font-family: "Caveat";
+    padding: 220px;
+    padding: 30px;
+    width: 40px;
+    font-size: 36px;
+}
+.diwali-card-scetion-bottom{
+    background-color: lightblue;
+    text-align: center;
+    padding: 30px;
+}
+
+.diwali-card-item{
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    margin: 25px;
+    padding: 10px;
+}
+.diwali-image{
+    height: 100px;
+    width: 80px;
+}
+.diwali-sub-heading{
+    font-size: 20px;
+}
+.diwali-para{
+    font-size: 20px;
+}

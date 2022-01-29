@@ -1,0 +1,35 @@
+.top-container{
+    color: white;
+    background-color: #fb4e71;
+    text-align: left;
+    padding: 20px;
+}
+.bottom-container{
+    background-color: #e6f6ff;
+    padding: 20px;
+    text-align: center;
+}
+.second-heading{
+    font-size: 25px;
+    text-align: left;
+}
+.card-container{
+    text-align: center;
+}
+.text-container{
+    padding: 10px;
+    text-align: left;
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.sub-heading{
+    font-size: 20px;
+}
+.sub-para{
+    font-size: 10px;
+}
+.last-para{
+    font-size: 10px;
+    text-align: left;
+}

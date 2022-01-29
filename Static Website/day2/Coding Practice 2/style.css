@@ -1,0 +1,21 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+.text-container{
+    border-width: 6px;
+    border-style: solid;
+    border-color: #48ee59;
+    background-color: #00000080;
+    margin: 60px;
+}
+.text-area{
+
+    color: white;
+    font-size: 40px;
+    text-align: left;
+    padding: 40px;
+    font-family: sans-serif;
+
+}

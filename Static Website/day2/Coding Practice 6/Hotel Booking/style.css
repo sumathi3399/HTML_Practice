@@ -1,0 +1,30 @@
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.tourism-card {
+    text-align: center;
+    background-color: #000000e6;
+    padding: 30px;
+    border-radius: 25px;
+    margin: 20px;
+    text-align: left;
+}
+.main-heading,h3 {
+    font-family: "Roboto";
+    color: white;
+}
+.paragraph {
+    font-family: "Roboto";
+    color: white;
+}
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+    margin: 20px;
+}

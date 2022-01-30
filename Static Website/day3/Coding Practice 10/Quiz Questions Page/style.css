@@ -1,0 +1,68 @@
+.color-container {
+    background-color: #875fc0;
+    height: 100vh;
+    background-size: cover;
+}
+.main-container{
+    padding: 15px;
+    color: white;
+}
+.card1{
+    padding: 13px;
+    padding-bottom: 3px;
+}
+.second-container {
+    color: black;
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 15px;
+}
+img{
+    height: 130px;
+}
+.third-container{
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 15px;
+}
+.box1{
+    text-align: left;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    font-size: 20px;
+    font-weight: normal;
+    height: 53px;
+    padding-top: 7px;
+}
+.box2{
+    text-align: left;
+    background-color: #875fc0;
+    color: white;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    font-size: 20px;
+    font-weight: normal;
+    height: 53px;
+    padding-top: 7px;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+    margin: 15px;
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #fbaf00;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}

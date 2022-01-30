@@ -1,0 +1,106 @@
+.bg-container {
+    background-image: url("https://image.freepik.com/free-photo/beautiful-girl-standing-viewpoint-koh-nangyuan-island-near-koh-tao-island-surat-thani-thailand_335224-1094.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.main-heading {
+    font-family: "Roboto";
+}
+.paragraph {
+    font-family: "Roboto";
+}
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+
+
+.favourite-places-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 100vh;
+    background-size: cover;
+  }
+  
+  .favourite-places-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+  }
+  
+  .favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 10px;
+  }
+  
+  .favourite-place-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+  }
+  
+  .favourite-place-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+  }
+  .favourite-place-card-image{
+    height: 100px;
+    width: 80px;
+  }
+  
+
+
+  .detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+  }
+  .detailed-view-heading {
+    color: white;
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 24px;
+  }
+  .detailed-view-card-container{
+      background-color: white;
+      border-bottom-left-radius: 8px;
+      border-bottom-right-radius: 8px;
+      padding: 8px;
+      margin: 8px;
+  }
+  .detailed-view-text-container{
+      padding: 10px;
+  }
+  .taj-heading{
+      color: lightblue;
+      font-weight: bold;
+      font-size: 36px;
+  }
+  .taj-para{
+      color: wheat;
+  }
+
+  .ul-list{
+    list-style-type: circle;
+  }
+  .ol-list{
+    list-style-type: lower-roman;
+  }

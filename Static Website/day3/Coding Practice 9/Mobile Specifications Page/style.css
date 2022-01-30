@@ -1,0 +1,28 @@
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/iphoneX-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.mobile-card {
+    text-align: center;
+    background-color: white;
+    padding: 45px;
+    margin: 3px;
+}
+.heading1 {
+    font-family: "Roboto";
+    text-align: left;
+    font-weight: bold;
+    color: #0a1f44;
+}
+.ul-list{
+    text-align: left;
+    color: #707070;
+}
+.button1 {
+    height: 36px;
+    width: 30px;
+    
+    border-radius: 20px;
+    border-width: 0px;
+}

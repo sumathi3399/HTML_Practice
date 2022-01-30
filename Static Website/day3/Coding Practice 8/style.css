@@ -1,0 +1,36 @@
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.main-container{
+    color: white;
+    padding: 15px;
+}
+.head-container{
+    margin: 7px;
+}
+.heading1{
+    font-size: 33px;
+    font-weight: bold;
+}
+.button1{
+    color: #ff8348;
+    background-color: white;
+    border-radius: 8px;
+    border-width: 0px;
+    font-size: 13px;
+    margin-left: 69px;
+    height: 40px;
+    width: 80px;
+
+}
+.img1{
+    margin: 8px;
+}
+.heading2{
+
+}
+.para1{
+
+}

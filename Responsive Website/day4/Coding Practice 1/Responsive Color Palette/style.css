@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+.color-box{
+    padding: 20px;
+    margin: 7px;
+    border-radius: 8px;
+}
+p{
+    color: white;
+}

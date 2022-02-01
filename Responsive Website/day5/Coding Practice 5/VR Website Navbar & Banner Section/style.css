@@ -1,0 +1,29 @@
+.logo1{
+    height: 50px;
+    width: 60px;
+}
+.nav-item1{
+    color: #323f4b;
+}
+#custom-nav-link1{
+    font-family: "Roboto";
+}
+.banner-section-bg-container{
+    background-size: cover;
+    height: 100vh;
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+}
+.banner-heading{
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+.custom-button{
+    border-width: 0px;
+    color: white;
+    height: 45px;
+    width: 130px;
+    border-radius: 8px;
+    margin-right: 10px;
+    background-color: #1a2137}

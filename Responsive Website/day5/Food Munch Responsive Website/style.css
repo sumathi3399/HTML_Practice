@@ -86,3 +86,33 @@
     font-weight: 600;
     color: #323f4b;
 }
+.explore-menu-section{
+    background-color: white;
+}
+.explore-menu-section-heading{
+    font-weight: 700;
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #183b56;
+}
+.explore-menu-card{
+    border-radius: 16px;
+}
+.menu-card-image{
+    border-radius: 16px;
+    height: 204px;
+}
+.menu-card-heading{
+    font-weight: 500;
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #323f4b;
+    margin-top: 24px;
+}
+.menu-card-desc{
+    color: #d0b200;
+    font-weight: 500;
+    font-family: "Roboto";
+    font-size: 14px;
+
+}

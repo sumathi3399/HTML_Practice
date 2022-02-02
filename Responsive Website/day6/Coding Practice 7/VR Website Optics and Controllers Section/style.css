@@ -1,0 +1,18 @@
+.oc-section-card-img{
+    height: 270px;
+    width: 540px;
+}
+.oc-section-card-heading{
+    color: #1f2933;
+}
+.oc-section-card-para{
+    color: #7b8794;
+}
+.oc-section-card-button{
+    color: white;
+    background-color: #1a2937;
+    border-radius: 8px;
+    border-width: 0px;
+    height: 35px;
+    width: 110px;
+}

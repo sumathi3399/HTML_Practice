@@ -1,0 +1,20 @@
+.cu-section{
+    background-color: #222b36;
+    text-align: center;
+}
+.cu-section-heading{
+    color: white;
+}
+.cu-section-img{
+    height: 290px;
+
+}
+.cu-section-button{
+    color: white;
+    background-color: #222b36;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 8px;
+    width: 130px;
+}

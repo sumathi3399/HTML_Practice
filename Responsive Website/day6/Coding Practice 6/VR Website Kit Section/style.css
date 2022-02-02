@@ -1,0 +1,16 @@
+.ivk-section{
+    background-color: #f9fbfe;
+}
+.ivk-section-heading{
+    color: #1f2933;
+}
+.ivk-section-card{
+    text-align: center;
+}
+.ivk-section-card-img{
+    height: 170px;
+    width: 170px;
+}
+.ivk-section-card-heading{
+    color: #323f4b;
+}

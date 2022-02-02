@@ -1,0 +1,19 @@
+.feature-section-heading{
+    color: #1f2933;
+    font-weight: 700;
+}
+.feature-section-card{
+    text-align: center;
+}
+.feature-section-card-img{
+    height: 100px;
+    width: 100px;
+}
+.feature-section-card-heading{
+    color: #1f2933;
+    font-size: 28px;
+}
+.feature-section-card-desc{
+    color: #7b8794;
+    font-size: 16px;
+}

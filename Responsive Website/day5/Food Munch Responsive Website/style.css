@@ -137,7 +137,7 @@
     width: 130px;
     height: 45px;
     color: white;
-    background-color: #d0b200;
+    background-image: linear-gradient(#d0b200,#a58d00);
     border-width: 0;
     border-radius: 8px;
     margin-right: 10px;
@@ -162,7 +162,8 @@
     margin-right: 28px;
   }
   .thanking-customers-section {
-    background-color: #d0b2001a;
+    background-image: radial-gradient(#fff8db , #fae38c);
+  
   }
   .thanking-customers-section-heading {
     font-family: "Roboto";
@@ -178,4 +179,23 @@
   .thanking-customers-section-img {
     width: 270px;
     margin-bottom: 20px;
+  }
+  .icon{
+    font-size: 35px;
+    color: #d0b200;
+  }
+  .follow-us-icon-container{
+    width: 80px;
+    height: 80px;
+    background-color: #faf7e8;
+    margin: 15px;
+    padding-top: 22px;
+    padding-left: 22px;
+    padding-right: 16px;
+    padding-bottom: 14px;
+    border-radius: 50px;
+  }
+  .thanking-customers-section-heading1{
+    font-weight: 800;
+    color: #d0b200;
   }

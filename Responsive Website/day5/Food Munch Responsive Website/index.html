@@ -10,11 +10,12 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/2b1ae271ed.js" crossorigin="anonymous"></script>
 
 </head>
 <body>
      
-  <nav class="navbar navbar-expand-lg navbar-light bg-white">
+  <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
     <a class="navbar-brand" href="#">
         <img class="logo1" src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/food-munch-logo-img.png" alt="">
@@ -24,10 +25,10 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav ml-auto">
-        <a class="nav-item nav-link active" id="custom-nav-link1" href="#">Why choose us? <span class="sr-only">(current)</span></a>
-        <a class="nav-item nav-link" id="custom-nav-link2" href="#">Explore Menu</a>
-        <a class="nav-item nav-link" id="custom-nav-link3" href="#">Delivery & Payment</a>
-        <a class="nav-item nav-link" id="custom-nav-link4" href="#">Follow us</a>
+        <a class="nav-item nav-link active" id="custom-nav-link1" href="#wcu-section-id">Why choose us? <span class="sr-only">(current)</span></a>
+        <a class="nav-item nav-link" id="custom-nav-link2" href="#em-section">Explore Menu</a>
+        <a class="nav-item nav-link" id="custom-nav-link3" href="#dp-section">Delivery & Payment</a>
+        <a class="nav-item nav-link" id="custom-nav-link4" href="#fs-section">Follow us</a>
       </div>
     </div>
     </div>
@@ -50,7 +51,7 @@
     </div>
   </div>
 
-  <div class="wcu-section pt-5 pb-5">
+  <div class="wcu-section pt-5 pb-5" id="wcu-section-id">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -83,7 +84,7 @@
     </div>
   </div>
 
-  <div class="explore-menu-section pt-5 pb-5">
+  <div class="explore-menu-section pt-5 pb-5" id="em-section">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -194,7 +195,7 @@
       </div>
     </div>
   </div>
-  <div class="delivery-and-payment-section pt-5 pb-5">
+  <div class="delivery-and-payment-section pt-5 pb-5" id="dp-section">
     <div class="container">
       <div class="row">
         <div class="col-12 col-md-5 order-1 order-md-2">
@@ -255,7 +256,30 @@
             class="thanking-customers-section-img d-md-none"
           />
           <div>
-            <button class="custom-button">Redeem Gift</button>
+            
+            <!-- Button trigger modal -->
+              <button type="button" class="custom-button" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                Redeem Gift
+              </button>
+
+              <!-- Modal -->
+              <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog mt-5">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title thanking-customers-section-heading1" id="exampleModalLabel">Gift Voucher</h5>
+                      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                      <img src="" class="w-100" alt="">
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
           </div>
         </div>
         <div class="col-12 col-md-5 order-md-2 d-md-block d-none">
@@ -268,6 +292,29 @@
     </div>
   </div>
 
-
+  <div class="follow-us-section" id="fs-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="follow-us-section-heading">Follow Us</h1>
+          <div class="d-flex flex-row justify-content-center">
+            <div class="follow-us-icon-container">
+              <i class="fab fa-twitter icon"></i>
+            </div>
+            <div class="follow-us-icon-container">
+              <i class="fab fa-instagram icon"></i>
+            </div>
+            <div class="follow-us-icon-container">
+              <i class="fab fa-facebook icon"></i>
+            </div>
+          </div>
+          
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/js/ccbp-ui-kit.js"></script>
+  
 </body>
 </html>

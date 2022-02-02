@@ -1,0 +1,21 @@
+.tb-card-section{
+    border-radius: 15px;
+    border-width: 0px;
+}
+.tb-heading{
+    color: #1f2933;
+}
+.tb-card-para{
+    color: #959ead;
+}
+.tb-card-heading{
+    color: #323f4b;
+}
+.tb-button{
+    color: white;
+    background-color: #1754a1;
+    height: 70px;
+    width: 190px;
+    border-width: 0px;
+    border-radius: 8px;
+}

@@ -1,0 +1,38 @@
+.ps-section-heading{
+    color: #1f2933;
+}
+.ps-card1{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    height: 100vh;
+}
+.ps-card2{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    height: 100vh;
+}
+.ps-heading{
+    color: white;
+}
+.ps-para{
+    color: white;
+}
+.ps-button{
+    background-color: transparent;
+    border-radius: 9px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    width: 150px;
+    height: 30px;
+}
+.ps-section-button{
+    background-color: #1754a1;
+    border-radius: 10px;
+    border-width: 0px;
+    color: white;
+    width: 150px;
+    margin: 15px;
+
+}

@@ -1,0 +1,16 @@
+.work-done-section{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.work-done-card{
+    color: white;
+}
+hr{
+    background-color: white;
+    width: 60px;
+}
+.icon-custom{
+    height: 40px;
+    width: 40px;
+}

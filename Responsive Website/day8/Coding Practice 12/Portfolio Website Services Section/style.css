@@ -1,0 +1,29 @@
+.project-section{
+    background-color: #52606d;
+    height: 100vh;
+}
+.project-card{
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+.small-heading{
+    color: #cced00;
+    font-size: 22px;
+}
+.main-heading{
+    color: white;
+    font-size: 28px;
+    font-weight: 700;
+}
+.card-heading{
+    color: white;
+    font-size: 25px;
+}
+p{
+    color: #9aa5b1;
+    font-size: 18px;
+}
+.project-img{
+    height: 40px;
+    width: 40px;
+}

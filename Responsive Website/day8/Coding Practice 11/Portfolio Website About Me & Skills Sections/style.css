@@ -1,0 +1,33 @@
+.about-me-section{
+    background-color: #323f4b;
+}
+.about-me-text-container{
+    color: white;
+}
+.heading-3{
+    color: #cced00;
+}
+.heading-1{
+    color: white;
+}
+.description-details{
+    color: #9aa5b1;
+}
+.skills-section{
+    background-color: #1f2933;
+    columns: white;
+}
+.content-bg{
+    background-color: #323f4b;
+    border-width: 0px;
+    border-radius: 8px;
+
+}
+.heading-sub{
+    color: white;
+    font-size: 20px;
+}
+.skills-img{
+    width: 60px;
+    height: 60px;
+}

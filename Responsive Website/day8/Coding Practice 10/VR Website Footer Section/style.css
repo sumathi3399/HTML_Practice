@@ -1,0 +1,31 @@
+.vr-footer-section{
+    background-color: #19232d;
+    color: #5a7184;
+    padding: 5px;
+}
+
+.vr-footer-img{
+    height: 40px;
+    width: 40px;
+}
+.vr-footer-logo{
+    border-radius: 40px;
+    border-width: 0px;
+    background-color: #202b36;
+    padding: 15px;
+    margin: 2px;
+}
+.vr-footer-heading{
+    font-size: 20px;
+    font-weight: 700;
+}
+.vr-footer-para{
+    font-size: 16px;
+}
+.vr-footer-sub-heading{
+    color: #959ead;
+    font-size: 15px;
+}
+.hr-line{
+    background-color: #5a7184;
+}

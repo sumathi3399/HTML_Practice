@@ -1,0 +1,32 @@
+.car-img{
+    border-radius: 70px;
+    height: 150px;
+    width: 150px;
+
+}
+.bg-container{
+    height: 100vh;
+}
+.car-container{
+    background-color: #323f4b;
+    color: white;
+}
+h3{
+    font-size: 22px;
+}
+p{
+    color: #9aa5b1;
+    font-size: 18px;
+}
+h1{
+    font-size: 28px;
+    font-weight: 700;
+}
+.bg-container{
+    background-color: #1f2933;
+    color: white;
+}
+.small-heading{
+    color: #cced00;
+    font-size: 22px;
+}
